@@ -216,8 +216,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    GitHub: https://github.com/qianyecn
 
 
 # Social Links Icons
@@ -409,7 +408,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMzU2Ny8xMDEyMg==
+#livere_uid: MTAyMC8zMzU2Ny8xMDEyMg==
 
 # Baidu Share
 # Available value:
